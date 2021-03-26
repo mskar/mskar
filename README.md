@@ -1,19 +1,21 @@
 # Greetings!
 
+<img src="desk.jpeg" width="750" align="right">
+
 My name is Martin Skarzynski.
 
-I am a data scientist with a broad scientific background that ranges from molecular and cellular biology to population science.
+I am a data scientist👨‍🔬 and machine🤖learning🧠engineer with a broad scientific background that ranges from molecular and cellular biology to population science.
 
-I use the Python and R programming languages along with command line (shell) tools to explore, analyze, visualize and present data.
+I use the Python🐍and R®️programming languages along with UNIX shell🐚tools🛠to extract insights from data.
 
 ## Languages
 
 I speak
-- English,
-- Polish,
-- Russian,
-- Spanish, and
-- French
+- English🇺🇸,
+- French🇫🇷,
+- Polish🇵🇱,
+- Russian🇷🇺, and
+- Spanish🇪🇸
 
 ## Education
 
@@ -29,7 +31,7 @@ My primary research interest is in understanding health risk factors by combinin
 
 I believe I am uniquely equipped to bridge the gaps between scientific disciplines and deliver on the promise of data science in health research.
 
-My preferred tools are R and Python, open source programming languages kept on the cutting edge by their active and supportive communities.
+My preferred tools are Python and R, open source programming languages kept on the cutting edge by their active and supportive communities.
 
 Through research and teaching, I am constantly improving my ability to obtain, tidy, explore, transform, visualize, model, and communicate data.
 
