@@ -4,7 +4,7 @@
 
 My name is Martin Skarzynski.
 
-I am a data scientist👨‍🔬  and machine🤖  learning🧠  engineer with a broad scientific background that ranges from molecular and cellular biology to population science.
+I am a data scientist👨‍🔬  and machine🤖  learning🧠  engineer with a broad scientific background that ranges from molecular and cellular biology to epidemiology.
 
 I use the Python🐍  and R®️   programming languages along with UNIX shell🐚  tools🛠  to extract insights from data.
 
