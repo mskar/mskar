@@ -1,6 +1,6 @@
 <img src="desk.jpeg" width="600" align="right">
 
-# Greetings!
+# Greetings!👋
 
 My name is Martin Skarzynski.
 
@@ -8,16 +8,16 @@ I am a data scientist👨‍🔬  and machine🤖  learning🧠  engineer with a
 
 I use the Python🐍  and R®️   programming languages along with UNIX shell🐚  tools🛠  to extract insights from data.
 
-## Languages
+## Languages😛
 
 I speak
-- English🇺🇸,
-- French🇫🇷,
-- Polish🇵🇱,
-- Russian🇷🇺, and
+- English🇺🇸
+- French🇫🇷
+- Polish🇵🇱
+- Russian🇷🇺
 - Spanish🇪🇸
 
-## Education
+## Education🎓
 
 I hold
 - an MPH in Epidemiologic and Biostatistical Methods for Public Health and Clinical Research and a certificate in Data Science from Johns Hopkins University,
@@ -25,7 +25,7 @@ I hold
 - an MS in Biotechnology from Jagiellonian University in Poland, and
 - a BA in Biology from St. Mary’s College of Maryland.
 
-## Mission Statement
+## Mission🚀
 
 My primary research interest is in understanding health risk factors by combining scientific expertise from diverse fields with machine intelligence.
 
