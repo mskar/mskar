@@ -1,6 +1,6 @@
-# Greetings!
-
 <img src="desk.jpeg" width="750" align="right">
+
+# Greetings!
 
 My name is Martin Skarzynski.
 
