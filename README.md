@@ -1,4 +1,4 @@
-<img src="desk.jpeg" width="750" align="right">
+<img src="desk.jpeg" width="650" align="right">
 
 # Greetings!
 
