@@ -1,12 +1,12 @@
-<img src="desk.jpeg" width="650" align="right">
+<img src="desk.jpeg" width="600" align="right">
 
 # Greetings!
 
 My name is Martin Skarzynski.
 
-I am a data scientist👨‍🔬 and machine🤖learning🧠engineer with a broad scientific background that ranges from molecular and cellular biology to population science.
+I am a data scientist👨‍🔬  and machine🤖  learning🧠  engineer with a broad scientific background that ranges from molecular and cellular biology to population science.
 
-I use the Python🐍and R®️programming languages along with UNIX shell🐚tools🛠to extract insights from data.
+I use the Python🐍  and R®️   programming languages along with UNIX shell🐚  tools🛠  to extract insights from data.
 
 ## Languages
 
